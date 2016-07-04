@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: F*CK YOU
+permalink: /f*ck you/
 ---
 
 Wir scheißen auf Leserwünsche, Morddrohungen und professionellen Journalismus.
