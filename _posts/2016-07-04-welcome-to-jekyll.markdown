@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "MW-Waffen: Technologie der Zukunft oder Gegenwart?"
 date:   2016-07-04 04:35:17 -0400
-categories: jekyll update
+categories: Verschwörungen
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Durch Zufall wurde das Thema „ Mirkowellenwaffen “ zum Inhalt dieser Ausgabe, denn die Redaktion wurde durch eher unscheinbare Sticker an eher unscheinbaren wiener Straßenlaternen darauf aufmerksam. Slogans wie „Mikrowellenverbrecher vors Strafgericht!“, oder „Das gläserne Haus – Ende des Privatlebens“, regten zum Schmunzeln an, blieben jedoch im Gedächtnis haften. Doch schon erste Recherchen verrieten: Wir waren auf etwas Riesiges gestoßen!
+Die Geschichte der Mikrowellentechnik nimmt im zweiten Weltkrieg ihren Beginn. Kriegsentscheidend waren die darauf basierenden Radarsysteme zur Ortung von Flugzeugen und Schiffen und so wurde die Erforschung der Technologie in der Nachkriegszeit weitergeführt. Am Ende der 50er Jahre wurde die Mikrowelle dann zum pars pro toto eines Küchengerätes rückte aber im Osten wie im Westen weiter in den Mittelpunkt militärischer Forschung. Die US-Botschaft in Moskau wurde beispielsweise mit elektromagnetischen Wellen bestrahlt, was nachweislich zu einer stark erhöhten Krebsrate unter den Mitarbeitern führte welche zwar beobachtet, jedoch für das US-Militär als Versuchsobjekt der Strahlenbelastung herhalten mussten. In diesem Zug wurde auch in der BRD der Einsatz von Mikrowellen als Abhörtechnik entwickelt und angewandt.
+Die optische Überwachung von Gebäuden wie z.B. Privatwohnungen funktioniert dabei nach dem gleichen Prinzip wie die Radarerkennung von Flugzeugen. Die Reflexionen von ausgesendeten elektromagnetischen Wellen werden erfasst und verraten was hinter Fenster und Wänden vor sich geht. Auch akustische Überwachung ist möglich obgleich sie sich schwieriger gestaltet. Dazu müssen die durch Schall erzeugten Schwingungen von Oberflächen wie Möbelstücken gemessen und auf das jeweilige Geräusch zurückgerechnet werden.
+Mikrowellen können aber auch als sogenannte DEWs oder Direct-Energy-Weapons wie sie in Science Fiction bekannt sind, verwendet werden. Dabei handelt es sich um Waffensysteme welche, wie z.B. Laser, Schaden nur durch Energie erzeugen. Diese zukunftsorientierten Waffen haben immense Vorteile gegenüber herkömmlichen letalen und non-letalen Waffen; Sie sind Lautlos, billig im Betrieb(benötigen keine Munition sondern nur Energie), agieren mit Lichtgeschwindigkeit und sind extrem präzise. Der Anwendungsbereich solcher Systeme ist vielfältig. Als Anti-Electronic-Weapons können sie gegen die Elektronik von Computern, Fahrzeugen und Geräten eingesetzt werden, beispielsweise können sie das Auslösen des Airbags eines vorbeifahrenden Autos erzielen. Als Anti-Personnel-Weapons sind das Erzeugen von Schmerzen, Verbrennungen, Tumoren, Hormonveränderungen oder das gezielte Töten von Menschen möglich.
+Aus der Kombination von Überwachung und Waffensystem sind Verbrechen möglich bei denen Opfer in ihren Privatwohnungen über lange Zeit mit Mikrowellenstrahlung regelrecht gefoltert werden. Die Technik dazu ist in Aktenkoffern, Pkw oder einer Nachbarwohnung untergebracht. So gibt sich jemand als Mitarbeiter des Staatsschutzes aus und installiert in mehreren Wohnungen Geräte zur Überwachung einer gewissen Person. Die „Freiwilligen“ können auch jederzeit diese Geräte zurückgeben, doch von den bösartigen Absichten der Täter wissen diese natürlich nicht. Im Zusammenhang mit organisiertem Verbrechen oder Sadisten sind in Deutschland über 100 Opfer bekannt bei denen Folgen wie Kopfschmerzen, Verbrennungen oder Organschädigungen auftreten. Tatsächlich sind schon die ersten Opfer schweren Unterleibstumoren erlegen. Für die Täter handelt es sich oftmals um das perfekte Verbrechen da ein gezielter Nachweis schwierig ist und eine Anzeige bei der Polizei aufgrund von Informationsmangel zu Ungläubigkeit führt, wenn nicht sogar das Opfer als verrückt dargestellt wird.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Diese Mikrowellenwaffen sind ein großer Technologieschritt bei dem es noch an öffentlicher Information mangelt. Außerdem sollte man im Hinterkopf behalten, dass es möglich ist einfache aber wirkungsvolle Geräte schon aus handelsüblichen Mikrowellenherden herzustellen.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
